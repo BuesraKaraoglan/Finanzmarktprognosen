@@ -1,0 +1,5 @@
+* linguist-vendored
+*.mathematica linguist-vendored=false
+*.nb linguist-vendored=false
+*.python linguist-vendored=false
+*.ipynb linguist-vendored=false
