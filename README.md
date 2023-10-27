@@ -1,4 +1,4 @@
-# Projekt Simulation: Bestimmung der Güte verschiedener Prognose-Modelle für Aktienkursverläufe
+# Bestimmung der Güte verschiedener Prognose-Modelle für Aktienkursverläufe
 
 **Autoren:** Antonio Beslic & Büsra Karaoglan
 
