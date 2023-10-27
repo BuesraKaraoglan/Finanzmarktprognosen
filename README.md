@@ -4,7 +4,7 @@
 
 **Professor:** Prof. Dr. Sven Oliver Hein
 
-**Abgabedatum:** 26.08.2018
+**Abgabedatum:** 26. August 2018
 
 
 ## Inhalt der Ausarbeitung
